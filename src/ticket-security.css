@@ -1,0 +1,9 @@
+.design{background:linear-gradient(135deg,#243a5f,#e0864b)}
+.design .orb-one{background:#f9d65c;width:170px;height:170px;right:-40px;top:10px}
+.design .orb-two{background:#4dd0b6;width:160px;height:160px;left:-45px;bottom:-45px}
+.film{background:linear-gradient(135deg,#161d35,#7b3a6a)}
+.film .orb-one{background:#f0bc4b;width:165px;height:165px;right:-45px;top:10px}
+.film .orb-two{background:#5669df;width:180px;height:180px;left:-60px;bottom:-50px}
+.otp-code{font:700 24px 'DM Mono',monospace;letter-spacing:7px;color:#593195;background:#f1ebff;padding:12px;border-radius:8px;margin:18px 0}
+.otp-form{display:flex;gap:8px;margin-top:18px}.otp-form input{min-width:0;flex:1;border:1px solid #e5e8e2;border-radius:8px;padding:12px;text-align:center;font:700 18px 'DM Mono',monospace;letter-spacing:5px}.otp-form button{margin:0;padding-inline:14px}
+.checkout-summary,.entry-proof{background:#f5f6f4;border-radius:9px;padding:14px;text-align:left;margin:19px 0}.checkout-summary div,.entry-proof div{display:flex;justify-content:space-between;gap:12px;font-size:11px;padding:6px 0}.checkout-summary span,.entry-proof span{color:#667085}.entry-proof b{font:10px 'DM Mono',monospace;word-break:break-all}.security-list{text-align:left;margin:18px 0;padding:0;list-style:none}.security-list li{font-size:11px;padding:7px 0;border-bottom:1px solid #e5e8e2}.security-list li:last-child{border:0}.security-list i{color:#398144;font-style:normal;margin-right:7px}
